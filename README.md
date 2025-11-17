@@ -1,1 +1,1 @@
-# zepto_sql_project
+#Zepto products and prices Data Analysis using SQL
