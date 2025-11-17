@@ -7,8 +7,6 @@ This project is perfect for:
 - 💼 Preparing for interviews in retail, e-commerce, or product analytics
 
 
-[![SQL Data Analyst Portfolio Project using Zepto Inventory Dataset](https://github.com/user-attachments/assets/a1895ada-15e4-4f98-aa0d-597a4092c845)]
-
 ## 📌 Project Overview
 
 The goal is to simulate how actual data analysts in the e-commerce or retail industries work behind the scenes to use SQL to:
